@@ -1,19 +1,13 @@
-require 'pry'
-
-TRANSLATE = { 3 => 'Fizz',
-              5 => 'Buzz',
-              7 => 'Super' }
-
-keys = TRANSLATE.keys
+TRANSLATE = { 7 => 'Super',
+              3 => 'Fizz',
+              5 => 'Buzz' }
 
 (0..1000).to_a.each do |n|
-  vals = keys.select { |k| n % k == 0 }
+  vals = TRANSLATE.keys.select { |k| n % k == 0 }
   if vals.length == 3
-    puts 'SuperFizzBuzz'
-  elsif vals.include?(3) && vals.include?(7)
-    puts 'SuperFizz'
-  elsif vals.include?(5) && vals.include?(7)
-    puts 'SuperBuzz'
+    puts TRANSLATE.values.join
+  elsif vals.length == 2 && vals.include?(7)
+    puts TRANSLATE.fetch(vals.first) + TRANSLATE.fetch(vals.last)
   elsif vals.length == 1
     puts TRANSLATE.fetch(vals.first)
   else
