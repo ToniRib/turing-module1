@@ -12,7 +12,7 @@ puts "toni".reverse
 
 # How can I tell if two words have the same number of characters?
 puts "toni".length == "home".length
-puts "toni.length" == "daniel".length
+puts "toni".length == "daniel".length
 
 # How can I tell if a word has all capital letters?
 str = "helLO"
