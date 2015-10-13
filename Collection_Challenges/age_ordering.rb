@@ -27,11 +27,7 @@ puts ""
 # Level 4: Write code to automatically build a hash with the age as the key and an array of names as the value (all the people who are that age). e.g. {24 => ['Juan', 'Steve', 'Jill']...}
 puts 'Level 4:'
 hash = {}
-data.each do |person|
-  if hash.include?(person[1])
-    hash[person[1]] << person[0]
-  else
-    hash[person[1]] = [person[0]]
-  end
+data.each do |p|
+  hash.include?(p[1]) ? hash[p[1]] << p[0] : hash[p[1]] = [p[0]]
 end
 p hash
