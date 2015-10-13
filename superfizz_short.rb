@@ -1,6 +1,4 @@
-TRANSLATE = { 7 => 'Super',
-              3 => 'Fizz',
-              5 => 'Buzz' }
+TRANSLATE = { 7 => 'Super', 3 => 'Fizz', 5 => 'Buzz' }
 
 (0..1000).to_a.each do |n|
   vals = TRANSLATE.keys.select { |k| n % k == 0 }
