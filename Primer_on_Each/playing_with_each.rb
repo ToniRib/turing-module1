@@ -16,7 +16,7 @@ heartthrobs.each do |heartthrob|
 end
 
 puts divider("Single Line TV Shows")
-tv_shows = ["90210", "American Gladiators", "Roseanne", "Married with Children", "Perfect Strangers"]
+tv_shows = ["90210", "American Gladiators", "Roseanne", "Married with Children", "Perfect Strangers", "American Bandstand"]
 tv_shows.each { |tv_show| puts tv_show }
 
 
@@ -49,15 +49,18 @@ end
 puts "After the block: #{favorite_network}"
 
 puts divider "Favorite Shows"
-favorite_shows = []
+# favorite_shows = []
+#
+# tv_shows.each do |tv_show|
+#   if tv_show.include?("merica")
+#     favorite_shows << tv_show
+#   end
+# end
+#
+# puts favorite_shows
 
-tv_shows.each do |tv_show|
-  if tv_show.include?("merica")
-    favorite_shows << tv_show
-  end
-end
-
-puts favorite_shows
+puts tv_shows.map { |show| show if show.include?("merica") }.compact
+puts tv_shows.select { |show| show.include?('merica') }
 
 puts divider "Favorite Show"
 tv_shows.each do |tv_show|
