@@ -2,9 +2,7 @@ class CreditCheck
   def validate_number(card_num)
     arr = break_into_array(card_num)
     doubled = double_every_other_digit(arr)
-    single_digits_only = doubled.map do |n|
-      double_digits?(n) ? sum_digits(n) : n
-    end
+    single_digits_only = doubled.map { |n| sum_digits(n) }
     modulo_ten?(sum_elements(single_digits_only))
   end
 
@@ -18,10 +16,6 @@ class CreditCheck
 
   def reverse_array(arr)
     arr.reverse
-  end
-
-  def double_digits?(num)
-    num > 9
   end
 
   def break_into_array(str)

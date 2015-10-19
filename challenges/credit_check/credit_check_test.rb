@@ -15,21 +15,6 @@ class CreditCheckTest < Minitest::Test
     assert_equal [3, 2, 1], checker.reverse_array([1, 2, 3])
   end
 
-  def test_returns_true_if_number_is_greater_than_9
-    checker = CreditCheck.new
-    assert checker.double_digits?(11)
-  end
-
-  def test_returns_false_if_number_is_less_than_9
-    checker = CreditCheck.new
-    refute checker.double_digits?(8)
-  end
-
-  def test_returns_false_if_number_is_equal_to_9
-    checker = CreditCheck.new
-    refute checker.double_digits?(9)
-  end
-
   def test_breaks_string_into_array_of_integers
     checker = CreditCheck.new
     assert_equal [4, 3, 2, 5, 6], checker.break_into_array('43256')
