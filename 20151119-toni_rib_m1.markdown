@@ -43,8 +43,11 @@ All extras work, tests pass
 __Scores:__
 
 Functional expectations: 4
+
 Testing: 4
+
 Ruby Style: 3
+
 Organization: 4
 
 #### Night Writer
@@ -77,14 +80,18 @@ excellent use of exceptions
 __Scores:__
 
 Functional Expectations (1 - 4): 4
+
 Test-Driven Development (1 - 4): 3
+
 Encapsulation / Breaking Logic into Components (1 - 4): 4
+
 Fundamental Ruby & Style (1 - 4): 4
+
 Enumerable & Collections (1 - 4): 3
 
-#### (Project Name)
+#### Complete Me
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/ToniRib/Complete_Me)
 * [Original Assignment]()
 
 (description)
@@ -93,15 +100,30 @@ Enumerable & Collections (1 - 4): 3
 
 (evaluation scores)
 
+
+
 ## Team
 
 ### Projects
 
 (Intro)
 
-#### (Project Name)
+#### HTTP, Yeah You Know Me
 
-* [GitHub URL]()
+* [GitHub URL](https://github.com/ToniRib/http_yeah_you_know_me)
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+(feedback to me)
+
+#### Headcount
+
+* [GitHub URL](https://github.com/ToniRib/heacount)
 * [Original Assignment]()
 
 (description)
