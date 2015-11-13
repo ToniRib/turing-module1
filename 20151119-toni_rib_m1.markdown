@@ -20,13 +20,11 @@ Left at 2pm on Friday, October 23rd because I was sick.
 
 #### Sorting Suite
 
-* [https://github.com/ToniRib/sorting-suite](Github Repo)
-* [https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown](Original Assignment)
+* [GitHub URL](https://github.com/ToniRib/sorting-suite)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
-##### Description
 (description)
 
-##### Evaluation Comments
 Reviewed by Beth Secor
 
 __Bubble sort__
@@ -42,34 +40,47 @@ __Merge sort__
 
 All extras work, tests pass
 
-##### Evaluation Scores
+__Scores:__
 
 Functional expectations: 4
 Testing: 4
 Ruby Style: 3
 Organization: 4
 
-#### (Project Name)
+#### Night Writer
 
-* [GitHub URL]()
-* [Original Assignment]()
-
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
-
-#### (Project Name)
-
-* [GitHub URL]()
-* [Original Assignment]()
+* [GitHub URL](https://github.com/ToniRib/night-writer)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
 (description)
 
-(evaluation comments)
+(evaluation comments) - Need to ask Jeff for comments
 
 (evaluation scores)
+
+#### Binary Search Tree
+
+* [GitHub URL](https://github.com/ToniRib/binary-search-tree)
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
+
+(description)
+
+Reviewed by Mike Dao
+
+127 tests, all pass.
+All extensions
+Code checks for data type and will only allow trees of matching types to be created.
+Good use of recursion
+Well tested, good, thorough tests, would like to have seen more sad path testing.
+excellent use of exceptions
+
+__Scores:__
+
+Functional Expectations (1 - 4): 4
+Test-Driven Development (1 - 4): 3
+Encapsulation / Breaking Logic into Components (1 - 4): 4
+Fundamental Ruby & Style (1 - 4): 4
+Enumerable & Collections (1 - 4): 3
 
 #### (Project Name)
 
