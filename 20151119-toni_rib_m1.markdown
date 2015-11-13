@@ -27,28 +27,27 @@ Left at 2pm on Friday, October 23rd because I was sick.
 
 Reviewed by Beth Secor
 
-__Bubble sort__
-- easy to read, simple implementation
-- tests pass, edge cases tested
+__Comments:__
 
-__Insertion sort__
-- could be a bit easier to read, with loops and breaks.
+1. Bubble sort
+  - easy to read, simple implementation
+  - tests pass, edge cases tested
 
-__Merge sort__
-- beautifully written, simple implementation
-- tests pass, edge cases tested
+2. Insertion sort
+  - could be a bit easier to read, with loops and breaks.
+
+3. Merge sort
+  - beautifully written, simple implementation
+  - tests pass, edge cases tested
 
 All extras work, tests pass
 
 __Scores:__
 
-Functional expectations: 4
-
-Testing: 4
-
-Ruby Style: 3
-
-Organization: 4
+* Functional expectations: 4
+* Testing: 4
+* Ruby Style: 3
+* Organization: 4
 
 #### Night Writer
 
@@ -70,6 +69,8 @@ Organization: 4
 
 Reviewed by Mike Dao
 
+__Comments:__
+
 127 tests, all pass.
 All extensions
 Code checks for data type and will only allow trees of matching types to be created.
@@ -79,28 +80,36 @@ excellent use of exceptions
 
 __Scores:__
 
-Functional Expectations (1 - 4): 4
-
-Test-Driven Development (1 - 4): 3
-
-Encapsulation / Breaking Logic into Components (1 - 4): 4
-
-Fundamental Ruby & Style (1 - 4): 4
-
-Enumerable & Collections (1 - 4): 3
+* Functional Expectations: 4
+* Test-Driven Development: 3
+* Encapsulation / Breaking Logic into Components: 4
+* Fundamental Ruby & Style: 4
+* Enumerable & Collections: 3
 
 #### Complete Me
 
 * [GitHub URL](https://github.com/ToniRib/Complete_Me)
 * [Original Assignment]()
 
+Reviewed by Horace
+
 (description)
 
-(evaluation comments)
+__Comments:__
 
-(evaluation scores)
+Nice work with the shoes; other base functionality also working good
+Added the inclusive fuzzy search as well
+Fancy error handling on various inputs
+Overall method tidyness and conciseness is strong
+General enumerable usage is solid; handful of cases where multiple different enumerables might be able to be consolidated
 
+__Scores:__
 
+* Functional Expectations: 4
+* TDD: 4
+* Ruby Style & Fundamentals: 4
+* Encapsulation / Breaking Logic Into Components: 4
+* Enumerable & Collections: 3
 
 ## Team
 
@@ -113,11 +122,25 @@ Enumerable & Collections (1 - 4): 3
 * [GitHub URL](https://github.com/ToniRib/http_yeah_you_know_me)
 * [Original Assignment]()
 
+Project with Hector Huertas
+Reviewed by Mike Dao
+
 (description)
 
-(evaluation comments)
+__Comments:__
 
-(evaluation scores)
+62 tests, all pass.
+One extension
+All functionality works.
+Well organized, code, things were broken out into separate methods in a good fashion.
+Think about class methods, and modules.
+
+__Scores:__
+
+* Overall Functionality: 4
+* Fundamental Ruby & Style: 4
+* Test-Driven Development: 3
+* Breaking Logic into Components: 4
 
 (feedback to me)
 
@@ -125,6 +148,9 @@ Enumerable & Collections (1 - 4): 3
 
 * [GitHub URL](https://github.com/ToniRib/heacount)
 * [Original Assignment]()
+
+Project with Aaron Greenspan
+Reviewed by
 
 (description)
 
@@ -146,7 +172,11 @@ Enumerable & Collections (1 - 4): 3
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+* made coffee 3 times throughout the module when it was empty
+* helped various people in module 1 with debugging when they were stuck
+* organized a 1510 happy hour after turing in our first Project
+* went to an LGBTuring lunch
+* went to Hamburger Mary's with the LGBTuring group
 
 ## Review
 
