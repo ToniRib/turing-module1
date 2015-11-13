@@ -4,7 +4,7 @@
 
 ### Your Mission
 
-(What did you set out to accomplish this module?)
+I wanted to learn Ruby well enough to be able to write code in it without constantly having to reference documentation and to become comfortable with object-oriented design and test driven development. Both OO and TDD are completely new to me so I wanted to get enough practice so that they both feel like second nature going forward.  I was also hoping to get much better at Ruby style, since I'm more used to coding with lots of comments and giant, 25 - 100 line functions.
 
 ### End of Module Assessment
 
@@ -25,7 +25,7 @@ Left at 2pm on Friday, October 23rd because I was sick.
 
 (description)
 
-Reviewed by Beth Secor
+Provides a suite of algorithms and tests for four types of sorting: bubble sort, insertion sort (including in-place), merge sort, and selection sort.
 
 __Comments:__
 
@@ -54,7 +54,7 @@ __Scores:__
 * [GitHub URL](https://github.com/ToniRib/night-writer)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/night_writer.markdown)
 
-(description)
+This project contains executables to convert a file with English text into a new file with translated braille text, and back again the other direction.
 
 Reviewed by Jeff
 
@@ -67,7 +67,7 @@ __Scores:__
 * [GitHub URL](https://github.com/ToniRib/binary-search-tree)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/binary_search_tree.markdown)
 
-(description)
+The project creates a binary search tree by adding nodes (the first node being the 'head' node) with possible left and right links one at a time to the tree. A node is added to the left link if it is smaller than the current value and added to the right link if it is larger than the current value. The tree uses recursive methods that are located in the nodes, thus making each node 'intelligent' in that it passes along a query to one or both of its links.
 
 Reviewed by Mike Dao
 
@@ -95,7 +95,7 @@ __Scores:__
 
 Reviewed by Horace
 
-(description)
+This project simulates autocomplete functionality. It's basic design is a Trie data structure which uses branching nodes to create paths to words. Words can be added to the 'dictionary' one at a time or in bulk. Suggestions for a particular string are then found by recursively traversing the tree to the subtree that contains the search string and then locating any valid words (words that were added by the user) below that node on the tree. Words can be 'selected' so that words with more selections appear at the beginning of the array of suggestions. Words can also be searched for using a fuzzy search.
 
 __Comments:__
 
@@ -128,7 +128,7 @@ Project with Hector Huertas
 
 Reviewed by Mike Dao
 
-(description)
+This project focuses on using HTTP to create a simple server that responds to GET and POST requests. GET requests can be sent directly from the browser address line while POST requests are generated and sent using the Google Chrome extension Postman.
 
 __Comments:__
 
