@@ -12,11 +12,64 @@
 
 ### Attendance
 
-(Summary of any missed time 1/2 day or more)
+Left at 2pm on Friday, October 23rd because I was sick.
 
 ### Work
 
 (Intro)
+
+#### Sorting Suite
+
+* [https://github.com/ToniRib/sorting-suite](Github Repo)
+* [https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown](Original Assignment)
+
+##### Description
+(description)
+
+##### Evaluation Comments
+Reviewed by Beth Secor
+
+__Bubble sort__
+- easy to read, simple implementation
+- tests pass, edge cases tested
+
+__Insertion sort__
+- could be a bit easier to read, with loops and breaks.
+
+__Merge sort__
+- beautifully written, simple implementation
+- tests pass, edge cases tested
+
+All extras work, tests pass
+
+##### Evaluation Scores
+
+Functional expectations: 4
+Testing: 4
+Ruby Style: 3
+Organization: 4
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
+
+#### (Project Name)
+
+* [GitHub URL]()
+* [Original Assignment]()
+
+(description)
+
+(evaluation comments)
+
+(evaluation scores)
 
 #### (Project Name)
 
