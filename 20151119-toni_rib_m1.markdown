@@ -58,9 +58,9 @@ __Scores:__
 
 Reviewed by Jeff
 
-(evaluation comments) - Need to ask Jeff for comments
+__Comments:__
 
-(evaluation scores)
+__Scores:__
 
 #### Binary Search Tree
 
@@ -91,7 +91,7 @@ __Scores:__
 #### Complete Me
 
 * [GitHub URL](https://github.com/ToniRib/Complete_Me)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/complete_me.markdown)
 
 Reviewed by Horace
 
@@ -122,7 +122,7 @@ __Scores:__
 #### HTTP, Yeah You Know Me
 
 * [GitHub URL](https://github.com/ToniRib/http_yeah_you_know_me)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
 
 Project with Hector Huertas
 
@@ -150,7 +150,7 @@ __Scores:__
 #### Headcount
 
 * [GitHub URL](https://github.com/ToniRib/heacount)
-* [Original Assignment]()
+* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 Project with Aaron Greenspan
 
@@ -158,9 +158,9 @@ Reviewed by
 
 (description)
 
-(evaluation comments)
+__Comments:__
 
-(evaluation scores)
+__Scores:__
 
 (feedback to me)
 
