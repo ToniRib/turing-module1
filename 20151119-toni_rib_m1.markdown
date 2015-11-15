@@ -172,7 +172,9 @@ __Scores:__
 
 ### Being a Community Member
 
-(feedback to me)
+#### Feedback 1
+
+Pairing with Toni is awesome because I always learn a lot from her. She is a fountain of knowledge about git and ruby, and many other things. She is easy to work with and I never feel left behind despite the fact that she is more knowledgeable than me at the moment.
 
 ### Playing a Part
 
