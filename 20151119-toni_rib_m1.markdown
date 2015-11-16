@@ -4,7 +4,7 @@
 
 ### Your Mission
 
-I wanted to learn Ruby well enough to be able to write code in it without constantly having to reference documentation and to become comfortable with object-oriented design and test driven development. Both OO and TDD are completely new to me so I wanted to get enough practice so that they both feel like second nature going forward.  I was also hoping to get much better at Ruby style, since I'm more used to coding with lots of comments and giant, 25 - 100 line functions.
+My module one goal was to learn Ruby well enough to be able to write code in it without constantly having to reference documentation and to become comfortable with object-oriented design and test driven development. Both OO and TDD are  new to me so I wanted to get enough practice so that they both feel like second nature going forward.  I was also hoping to get much better at Ruby style, since I'm more used to coding with lots of comments and large 25 - 100 line functions.
 
 ### End of Module Assessment
 
@@ -16,7 +16,7 @@ Left at 2pm on Friday, October 23rd because I was sick.
 
 ### Work
 
-(Intro)
+The following are individual projects:
 
 #### Sorting Suite
 
@@ -117,7 +117,7 @@ __Scores:__
 
 ### Projects
 
-(Intro)
+The following are team projects:
 
 #### HTTP, Yeah You Know Me
 
@@ -168,7 +168,9 @@ __Scores:__
 
 ### Giving Feedback
 
-(feedback from me)
+#### Feedback for Beth Secor
+
+Beth is quick to understand new ideas and is great to pair with because you can have thorough discussions about different ways to solve a problem. She makes good use of pry and debugging techniques. We tend to get work done quickly and efficiently, and always with a few laughs!
 
 ### Being a Community Member
 
