@@ -8,7 +8,43 @@ My module one goal was to learn Ruby well enough to be able to write code in it 
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessor: Rachel
+
+#### Notes
+
+* good explanations while implementing
+* took small steps using TDD to drive development
+* wrote tests to drive out false positives in tests
+* able to think through potential edge cases
+* able to predict errors before running tests
+* comfortable with default arguments
+* comfortable taking refactoring suggestions; talking through them and implementing
+* quick with thought process and implementation
+* comfortable using pry to check potential solutions
+
+1. Ruby Syntax & API
+
+3.5
+
+2. Ruby Style
+
+3.5
+
+3. Blocks & Enumerations
+
+4: Developer is able to consistently select and implement the best-choice enumerator methods with blocks
+
+4. Testing
+
+4: Developer consistently takes small steps, using the tests for both design and verification
+
+5. Workflow
+
+4: Developer is a master of their tools, efficiently moving between phases of development
+
+6. Collaboration
+
+4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
 
 ### Attendance
 
