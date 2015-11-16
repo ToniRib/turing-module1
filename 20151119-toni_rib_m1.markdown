@@ -22,29 +22,14 @@ Assessor: Rachel
 * quick with thought process and implementation
 * comfortable using pry to check potential solutions
 
-1. Ruby Syntax & API
+#### Scores
 
-3.5
-
-2. Ruby Style
-
-3.5
-
-3. Blocks & Enumerations
-
-4: Developer is able to consistently select and implement the best-choice enumerator methods with blocks
-
-4. Testing
-
-4: Developer consistently takes small steps, using the tests for both design and verification
-
-5. Workflow
-
-4: Developer is a master of their tools, efficiently moving between phases of development
-
-6. Collaboration
-
-4: Developer actively seeks collaboration both before implementing, while in motion, and when stuck
+1. __Ruby Syntax & API:__ 3.5
+2. __Ruby Style:__ 3.5
+3. __Blocks & Enumerations:__ 4
+4. __Testing:__ 4
+5. __Workflow:__ 4
+6. __Collaboration:__ 4
 
 ### Attendance
 
@@ -217,6 +202,7 @@ Pairing with Toni is awesome because I always learn a lot from her. She is a fou
 ### Playing a Part
 
 * made coffee 3 times throughout the module when it was empty
+* put toilet paper in the bathroom twice when I noticed it had run out
 * helped various people in module 1 with debugging when they were stuck
 * organized a 1510 happy hour after turing in our first Project
 * went to an LGBTuring lunch
