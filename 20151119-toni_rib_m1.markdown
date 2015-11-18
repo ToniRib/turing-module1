@@ -198,11 +198,15 @@ Beth is quick to understand new ideas and is great to pair with because you can 
 
 #### Feedback for Aaron Greenspan
 
-stuff here
+Aaron has outstanding motivation to learn. He always seems to be working on something new that is above and beyond what we are learning at Turing and it's really inspiring to other students. My only criticism is that he sometimes wants to solve a problem in the 'most interesting' way instead of what is the simplest and most readable to other people. His solutions are fantastic, but they are sometimes confusing for other people to follow.
 
 #### Feedback for Hector Baeza
 
-stuff here
+Hector made a great partner for a project because we had very thoughtful discussions about how to solve problems. He made me take a step back from always trying to push forward to really understand everything that was happening in each method. He's great at test driven development. If he could improve at one thing it would be explaining his ideas a little more thoroughly, because sometimes it took me multiple explanations to understand what he was getting at.
+
+#### Feedback for Brenna Martenson
+
+Brenna has very good attention to detail and is great at explaining her ideas. She makes a great team member and pair because she rarely gets frustrated and is always willing to listen, try out new ideas, and help others. I think if she spoke up more often, she would realize that she knows even more than she thinks she does about problem solving and programming.
 
 ### Being a Community Member
 
