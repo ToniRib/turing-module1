@@ -174,8 +174,6 @@ __Scores:__
 * Test-Driven Development: 3
 * Breaking Logic into Components: 4
 
-(feedback to me)
-
 #### Headcount
 
 * [GitHub URL](https://github.com/ToniRib/headcount)
