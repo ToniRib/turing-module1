@@ -228,6 +228,10 @@ Pairing with Toni is awesome because I always learn a lot from her. She is a fou
 
 Working with Toni was a pleasure. I learned a lot with her about both programming and pairing. I really enjoyed our fluent communication and that we were free to discuss about any point of the approach or implementation. I love her result-oriented approach. She focuses on what matters and doesn’t waste time. As constructive criticism, she sometimes starts writing code before explaining what she is going to do, which joined with her fast thinking makes it quite hard to understand whats going on. Wrapping up, I’d love to have her as a partner again!
 
+#### Feedback 3
+
+It is my honest opinion that every single 1510er should pair with Toni on a project, and the sooner the better.  Not only is her problem solving ability fantastic, but her programming habits — from committing regularly to git hub, to her use of hot keys and short cuts, to her serious commitment to TDD — are unmatched in any of the students I have yet met at Turing.  Seeing her work has been the perfect complement to the lectures on methodology and has really driven in many of those lessons in an irreplaceable way.  Moving forward, I think Toni should be especially mindful of the gap between her understanding of programming and that of her fellow students.  It is perhaps an unfortunate fact that Toni’s first ideas are often the best ideas, and I was regularly disappointed that my (admittedly inferior) ideas never saw the light of day.  It will be tricky to do well, but I think Toni should consider allowing for ​*worse*​ code in her projects: in those cases where such code may provide a valuable learning experience, or a feeling of value, to her pair partner.
+
 ### Playing a Part
 
 * made coffee 4 times throughout the module when it was empty
