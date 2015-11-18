@@ -44,8 +44,6 @@ The following are individual projects:
 * [GitHub URL](https://github.com/ToniRib/sorting-suite)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/sorting_suite.markdown)
 
-(description)
-
 Provides a suite of algorithms and tests for four types of sorting: bubble sort, insertion sort (including in-place), merge sort, and selection sort.
 
 __Comments:__
@@ -170,20 +168,25 @@ __Scores:__
 
 #### Headcount
 
-* [GitHub URL](https://github.com/ToniRib/heacount)
+* [GitHub URL](https://github.com/ToniRib/headcount)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown)
 
 Project with Aaron Greenspan
 
-Reviewed by
+Reviewed by Horace
 
-(description)
+This project focused on using real data from the Colorado school districts to perform analysis. CSV files were read in and parsed so low level classes could use their data to find trends. A higher level 'Headcount Analyst' linked together various data to find trends across districts.
 
 __Comments:__
 
+Some comments from Horace here.
+
 __Scores:__
 
-(feedback to me)
+*
+*
+*
+*
 
 ## Community
 
@@ -193,6 +196,14 @@ __Scores:__
 
 Beth is quick to understand new ideas and is great to pair with because you can have thorough discussions about different ways to solve a problem. She makes good use of pry and debugging techniques. We tend to get work done quickly and efficiently, and always with a few laughs!
 
+#### Feedback for Aaron Greenspan
+
+stuff here
+
+#### Feedback for Hector Baeza
+
+stuff here
+
 ### Being a Community Member
 
 #### Feedback 1
@@ -201,12 +212,13 @@ Pairing with Toni is awesome because I always learn a lot from her. She is a fou
 
 ### Playing a Part
 
-* made coffee 3 times throughout the module when it was empty
+* made coffee 4 times throughout the module when it was empty
 * put toilet paper in the bathroom twice when I noticed it had run out
 * helped various people in module 1 with debugging when they were stuck
 * organized a 1510 happy hour after turing in our first Project
 * went to an LGBTuring lunch
 * went to Hamburger Mary's with the LGBTuring group
+* volunteered to TA for Girl Develop It Intro to Ruby this Saturday
 
 ## Review
 
