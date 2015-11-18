@@ -214,6 +214,10 @@ Brenna has very good attention to detail and is great at explaining her ideas. S
 
 Pairing with Toni is awesome because I always learn a lot from her. She is a fountain of knowledge about git and ruby, and many other things. She is easy to work with and I never feel left behind despite the fact that she is more knowledgeable than me at the moment.
 
+#### Feedback 2
+
+Working with Toni was a pleasure. I learned a lot with her about both programming and pairing. I really enjoyed our fluent communication and that we were free to discuss about any point of the approach or implementation. I love her result-oriented approach. She focuses on what matters and doesn’t waste time. As constructive criticism, she sometimes starts writing code before explaining what she is going to do, which joined with her fast thinking makes it quite hard to understand whats going on. Wrapping up, I’d love to have her as a partner again!
+
 ### Playing a Part
 
 * made coffee 4 times throughout the module when it was empty
