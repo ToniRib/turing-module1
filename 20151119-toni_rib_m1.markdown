@@ -79,7 +79,17 @@ Reviewed by Jeff
 
 __Comments:__
 
+* 53 test
+* Good test coverage, would like to see you push on edge cases a bit
+* Really good implementation, good Ruby style
+* Just keep doing it.
+
 __Scores:__
+
+* Overall Functionality: 3
+* Fundamental Ruby & Style: 4
+* Test-Driven Development: 4
+* Breaking Logic into Components: 4
 
 #### Binary Search Tree
 
